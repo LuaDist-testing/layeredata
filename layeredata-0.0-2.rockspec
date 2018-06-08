@@ -1,17 +1,17 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "layeredata"
-version = "0.0-1"
+version = "0.0-2"
 
 -- LuaDist source
 source = {
-  tag = "0.0-1",
+  tag = "0.0-2",
   url = "git://github.com/LuaDist-testing/layeredata.git"
 }
 -- Original source
 -- source = {
 --   url    = "git+https://github.com/cosyverif/layeredata.git",
---   branch = "master",
+--   branch = "dev",
 -- }
 
 description = {
